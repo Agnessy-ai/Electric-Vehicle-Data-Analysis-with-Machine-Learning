@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+keras
+tensorflow
+shap
+folium
+streamlit-folium
+scikit-learn
+statsmodels
+tensorflow
+opencv-python
+Pillow

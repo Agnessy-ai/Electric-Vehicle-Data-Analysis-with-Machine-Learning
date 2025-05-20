@@ -1,0 +1,7 @@
+timestamp,driver_id,vehicle_type,energy_kwh,charging_duration_minutes,sensor_risk_score
+2025-01-01,101,Model S,18.5,45,0.2
+2025-01-01,102,Model Y,21.2,50,0.5
+2025-01-01,103,Leaf,16.8,35,0.8
+2025-01-01,104,Bolt,22.0,40,0.1
+2025-01-02,101,Model S,19.1,43,0.3
+...
